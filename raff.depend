@@ -1,0 +1,603 @@
+# depslib dependency file v1.0
+1599584527 source:f:\32\oop\project\atiq\raff\src\employee.cpp
+	"Employee.h"
+
+1599727501 f:\32\oop\project\atiq\raff\include\employee.h
+	<iostream>
+	<string>
+
+1599803677 source:f:\32\oop\project\atiq\raff\src\cleaner.cpp
+	"Cleaner.h"
+	"Guest.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1599803677 f:\32\oop\project\atiq\raff\include\cleaner.h
+	<Employee.h>
+
+1599797508 source:f:\32\oop\project\atiq\raff\src\cook.cpp
+	"Cook.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1599797488 f:\32\oop\project\atiq\raff\include\cook.h
+	<Employee.h>
+
+1599807652 source:f:\32\oop\project\atiq\raff\src\guard.cpp
+	"Guard.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	"Employee.h"
+
+1599807664 f:\32\oop\project\atiq\raff\include\guard.h
+	<Employee.h>
+
+1599897293 source:f:\32\oop\project\atiq\raff\src\guest.cpp
+	"Guest.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1599897293 f:\32\oop\project\atiq\raff\include\guest.h
+	<string>
+
+1599901178 source:f:\32\oop\project\atiq\raff\src\manager.cpp
+	"Manager.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Porter.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1599901178 f:\32\oop\project\atiq\raff\include\manager.h
+	<Employee.h>
+
+1599734139 source:f:\32\oop\project\atiq\raff\src\porter.cpp
+	"Porter.h"
+	"Guest.h"
+	"Receptionist.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1599732908 f:\32\oop\project\atiq\raff\include\porter.h
+	<Employee.h>
+
+1599899020 source:f:\32\oop\project\atiq\raff\src\interface.cpp
+	"Interface.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Manager.h"
+	"Porter.h"
+	"Guest.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Room.h"
+	<iostream>
+	<fstream>
+
+1599898795 f:\32\oop\project\atiq\raff\include\interface.h
+	"Room.h"
+
+1599900755 source:f:\32\oop\project\atiq\raff\src\receptionist.cpp
+	"Receptionist.h"
+	"Employee.h"
+	"Guest.h"
+	"Room.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1599897293 f:\32\oop\project\atiq\raff\include\receptionist.h
+	<Employee.h>
+	"Room.h"
+
+1599755859 source:f:\32\oop\project\atiq\raff\src\waiter.cpp
+	"Waiter.h"
+	"Employee.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1599755771 f:\32\oop\project\atiq\raff\include\waiter.h
+	<Employee.h>
+
+1599979528 source:f:\32\oop\project\atiq\raff\main.cpp
+	<iostream>
+	<Employee.h>
+	<Guest.h>
+	"Interface.h"
+	"Room.h"
+
+1599754132 source:f:\32\oop\project\atiq\raff\src\menu.cpp
+	"Menu.h"
+
+1599755785 f:\32\oop\project\atiq\raff\include\menu.h
+	<string>
+
+1599897293 f:\32\oop\project\atiq\raff\include\room.h
+
+1599897293 source:f:\32\oop\project\atiq\raff\src\room.cpp
+	"Room.h"
+
+1600065400 source:f:\32\oop\project\raff\src\cleaner.cpp
+	"Cleaner.h"
+	"Guest.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\32\oop\project\raff\include\cleaner.h
+	<Employee.h>
+
+1600065400 f:\32\oop\project\raff\include\employee.h
+	<iostream>
+	<string>
+
+1599897293 f:\32\oop\project\raff\include\guest.h
+	<string>
+
+1600065399 source:f:\32\oop\project\raff\src\cook.cpp
+	"Cook.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\32\oop\project\raff\include\cook.h
+	<Employee.h>
+
+1599584527 source:f:\32\oop\project\raff\src\employee.cpp
+	"Employee.h"
+
+1600065400 source:f:\32\oop\project\raff\src\guard.cpp
+	"Guard.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	"Employee.h"
+
+1600065400 f:\32\oop\project\raff\include\guard.h
+	<Employee.h>
+
+1599897293 source:f:\32\oop\project\raff\src\guest.cpp
+	"Guest.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1600065400 f:\32\oop\project\raff\include\receptionist.h
+	<Employee.h>
+	"Room.h"
+
+1599897293 f:\32\oop\project\raff\include\room.h
+
+1599755785 f:\32\oop\project\raff\include\menu.h
+	<string>
+
+1600053176 source:f:\32\oop\project\raff\src\interface.cpp
+	"Interface.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Manager.h"
+	"Porter.h"
+	"Guest.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	"Room.h"
+	<iostream>
+	<fstream>
+
+1599898795 f:\32\oop\project\raff\include\interface.h
+	"Room.h"
+
+1600065399 f:\32\oop\project\raff\include\manager.h
+	<Employee.h>
+
+1600065398 f:\32\oop\project\raff\include\porter.h
+	<Employee.h>
+
+1600065400 f:\32\oop\project\raff\include\waiter.h
+	<Employee.h>
+
+1600065400 source:f:\32\oop\project\raff\src\manager.cpp
+	"Manager.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Porter.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1599754132 source:f:\32\oop\project\raff\src\menu.cpp
+	"Menu.h"
+
+1600065400 source:f:\32\oop\project\raff\src\porter.cpp
+	"Porter.h"
+	"Guest.h"
+	"Receptionist.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065400 source:f:\32\oop\project\raff\src\receptionist.cpp
+	"Receptionist.h"
+	"Employee.h"
+	"Guest.h"
+	"Room.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1599897293 source:f:\32\oop\project\raff\src\room.cpp
+	"Room.h"
+
+1600065400 source:f:\32\oop\project\raff\src\waiter.cpp
+	"Waiter.h"
+	"Employee.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1599990391 source:f:\32\oop\project\raff\main.cpp
+	<iostream>
+	<Employee.h>
+	<Guest.h>
+	"Interface.h"
+	"Room.h"
+
+1599990391 source:f:\oop_project\raff\main.cpp
+	<iostream>
+	<Employee.h>
+	<Guest.h>
+	"Interface.h"
+	"Room.h"
+
+1600065400 f:\oop_project\raff\include\employee.h
+	<iostream>
+	<string>
+
+1599897293 f:\oop_project\raff\include\guest.h
+	<string>
+
+1599898795 f:\oop_project\raff\include\interface.h
+	"Room.h"
+
+1599897293 f:\oop_project\raff\include\room.h
+
+1600065400 source:f:\oop_project\raff\src\cleaner.cpp
+	"Cleaner.h"
+	"Guest.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\oop_project\raff\include\cleaner.h
+	<Employee.h>
+
+1600065399 source:f:\oop_project\raff\src\cook.cpp
+	"Cook.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\oop_project\raff\include\cook.h
+	<Employee.h>
+
+1599584527 source:f:\oop_project\raff\src\employee.cpp
+	"Employee.h"
+
+1600065400 source:f:\oop_project\raff\src\guard.cpp
+	"Guard.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	"Employee.h"
+
+1600065400 f:\oop_project\raff\include\guard.h
+	<Employee.h>
+
+1599897293 source:f:\oop_project\raff\src\guest.cpp
+	"Guest.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1600065400 f:\oop_project\raff\include\receptionist.h
+	<Employee.h>
+	"Room.h"
+
+1599755785 f:\oop_project\raff\include\menu.h
+	<string>
+
+1600053176 source:f:\oop_project\raff\src\interface.cpp
+	"Interface.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Manager.h"
+	"Porter.h"
+	"Guest.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	"Room.h"
+	<iostream>
+	<fstream>
+
+1600065399 f:\oop_project\raff\include\manager.h
+	<Employee.h>
+
+1600065398 f:\oop_project\raff\include\porter.h
+	<Employee.h>
+
+1600065400 f:\oop_project\raff\include\waiter.h
+	<Employee.h>
+
+1600065400 source:f:\oop_project\raff\src\manager.cpp
+	"Manager.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Porter.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1599754132 source:f:\oop_project\raff\src\menu.cpp
+	"Menu.h"
+
+1600098277 source:f:\oop_project\raff\src\porter.cpp
+	"Porter.h"
+	"Guest.h"
+	"Receptionist.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600098172 source:f:\oop_project\raff\src\receptionist.cpp
+	"Receptionist.h"
+	"Employee.h"
+	"Guest.h"
+	"Room.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1599897293 source:f:\oop_project\raff\src\room.cpp
+	"Room.h"
+
+1600065400 source:f:\oop_project\raff\src\waiter.cpp
+	"Waiter.h"
+	"Employee.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1599990391 source:f:\oop_project\ami_delete_change_korsi\main.cpp
+	<iostream>
+	<Employee.h>
+	<Guest.h>
+	"Interface.h"
+	"Room.h"
+
+1600065400 f:\oop_project\ami_delete_change_korsi\include\employee.h
+	<iostream>
+	<string>
+
+1599897293 f:\oop_project\ami_delete_change_korsi\include\guest.h
+	<string>
+
+1599898795 f:\oop_project\ami_delete_change_korsi\include\interface.h
+	"Room.h"
+
+1599897293 f:\oop_project\ami_delete_change_korsi\include\room.h
+
+1600098568 source:f:\oop_project\ami_delete_change_korsi\src\cleaner.cpp
+	"Cleaner.h"
+	"Guest.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\oop_project\ami_delete_change_korsi\include\cleaner.h
+	<Employee.h>
+
+1600098568 source:f:\oop_project\ami_delete_change_korsi\src\cook.cpp
+	"Cook.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600065399 f:\oop_project\ami_delete_change_korsi\include\cook.h
+	<Employee.h>
+
+1599584527 source:f:\oop_project\ami_delete_change_korsi\src\employee.cpp
+	"Employee.h"
+
+1600098568 source:f:\oop_project\ami_delete_change_korsi\src\guard.cpp
+	"Guard.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	"Employee.h"
+
+1600065400 f:\oop_project\ami_delete_change_korsi\include\guard.h
+	<Employee.h>
+
+1600098568 source:f:\oop_project\ami_delete_change_korsi\src\guest.cpp
+	"Guest.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1600137084 f:\oop_project\ami_delete_change_korsi\include\receptionist.h
+	<Employee.h>
+	"Room.h"
+
+1599755785 f:\oop_project\ami_delete_change_korsi\include\menu.h
+	<string>
+
+1600053176 source:f:\oop_project\ami_delete_change_korsi\src\interface.cpp
+	"Interface.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Manager.h"
+	"Porter.h"
+	"Guest.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	"Room.h"
+	<iostream>
+	<fstream>
+
+1600065399 f:\oop_project\ami_delete_change_korsi\include\manager.h
+	<Employee.h>
+
+1600065398 f:\oop_project\ami_delete_change_korsi\include\porter.h
+	<Employee.h>
+
+1600065400 f:\oop_project\ami_delete_change_korsi\include\waiter.h
+	<Employee.h>
+
+1600065400 source:f:\oop_project\ami_delete_change_korsi\src\manager.cpp
+	"Manager.h"
+	"Employee.h"
+	"Receptionist.h"
+	"Porter.h"
+	"Waiter.h"
+	"Cook.h"
+	"Cleaner.h"
+	"Guard.h"
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1599754132 source:f:\oop_project\ami_delete_change_korsi\src\menu.cpp
+	"Menu.h"
+
+1600098277 source:f:\oop_project\ami_delete_change_korsi\src\porter.cpp
+	"Porter.h"
+	"Guest.h"
+	"Receptionist.h"
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1600137517 source:f:\oop_project\ami_delete_change_korsi\src\receptionist.cpp
+	"Receptionist.h"
+	"Employee.h"
+	"Guest.h"
+	"Room.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1599897293 source:f:\oop_project\ami_delete_change_korsi\src\room.cpp
+	"Room.h"
+
+1600098969 source:f:\oop_project\ami_delete_change_korsi\src\waiter.cpp
+	"Waiter.h"
+	"Employee.h"
+	"Menu.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
